@@ -1,0 +1,19 @@
+/* TEAM */
+Founder & Chief Executive Officer: Generorodgers Vincent Sylivesta
+Organization: Heartfelt Care Foundation
+Location: Tanzania
+Email: heartfeltcarefoundation@gmail.com
+
+/* SITE */
+Designed & developed by: Digidocs Official
+Site: https://www.digidocsofficial.com
+Role: Technology & Web Development Partner
+
+/* THANKS */
+With gratitude to every volunteer, partner, donor, and community member
+who helps restore smiles, rebuild hope, and change lives.
+
+/* SITE STANDARDS */
+Doctype: HTML5
+Components: Responsive layout, SEO metadata, structured data
+Software: -
